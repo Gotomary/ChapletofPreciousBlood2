@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'A short guide on how to pray the Chaplet and Litany of the Most Precious Blood of Jesus using Rosary beads.pdf',
+    value: 'Precious blood of Christ.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
