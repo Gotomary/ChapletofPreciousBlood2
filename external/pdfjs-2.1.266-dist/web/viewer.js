@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'Precious blood of Christ.pdf',
+    value: 'Precious blood of Christ.PDF',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
